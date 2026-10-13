@@ -1,15 +1,17 @@
 // var  
-
+function runVarExercises(){
 // 1 // 
 var name = "yashwanth"
 console.log(name)
 
 // 2 //
+
 var age = 25
 
 age = 30
 
 console.log(age)
+
 
 // 3 /
 
@@ -62,3 +64,6 @@ var a = 10
     a = 14
     a = 16
 console.log(a)
+
+}
+runVarExercises();
